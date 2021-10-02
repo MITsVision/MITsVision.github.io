@@ -82,6 +82,10 @@ body, p, h1, h2, h3, h4, h5, h6 {
   padding: 0px;
 }
 
+code{
+  color:#faaa5e;
+}
+
 .pad {
   padding: 0px 68px;
 }
@@ -474,7 +478,7 @@ body, p, h1, h2, h3, h4, h5, h6 {
   border-radius: 20px;
   color: #222222;
   font-size: 18px;
-  font-family: "Yellowtail", cursive;
+  font-family: "Garamond";
   position: relative;
   overflow: hidden;
 }
